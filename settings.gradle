@@ -1,0 +1,4 @@
+// Gradle settings file
+
+rootProject.name = "AUMNITRA_AI"
+include ':app'
